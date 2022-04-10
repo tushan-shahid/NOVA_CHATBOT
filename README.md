@@ -108,7 +108,7 @@ New api to extract data from wikipedia has been implemented to NovaBot. This api
 ![wiki](wiki-1.png)
 
 A Text-to-speech api has been used to improve accessibility of the chat bot. So far NovaBot is able to greet the user and redirect user if input is incorrect. 
-![tts](tts.png)
+![tts](tts-1.png)
 
 In addition, we have planned for 5 unexpected topics the user may wish to talk about that our program is not ready to handle. These are if the user says they are feeling depressed, suicidal, bipolar, physically ill, or disgusted. These topics all have a predetermined response and will prompt the user to say something within the scope of the program. Checking for these topics improves our program because it is reasonable to believe that the user may respond to the bot's prompt of "How are you feeling?" with one of these topics, so it is important to plan for them and ask them to try again. 
 ![unexpectedresponses](./novaunexpectedtopics.png)

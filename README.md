@@ -48,6 +48,8 @@ The NOVA chatbot is an emotional support agent that helps the user deal with the
 * [RiTa API for WordNet](https://rednoise.org/rita/)
 * [WordNet Toolkit](https://wordnet.princeton.edu/)
 * [Stanford Sentiment Analysis Toolkit](https://nlp.stanford.edu/sentiment/)
+* [Jwiki Toolkit](https://github.com/viralvaghela/Jwiki)
+* [Text-To-Speech Toolkit](https://freetts.sourceforge.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -104,6 +104,9 @@ We also used another toolkit from Stanford, a POS Tagger, that extracts the adje
 ![postagger](postagger.png)
 ![postagger2](postaggerinaction.png)
 
+New api to extract data from wikipedia has been implemented to NovaBot. This api is used to suggest the user with helpful information regarding physical and mental well being. 
+![wiki](wiki-1.png)
+
 In addition, we have planned for 5 unexpected topics the user may wish to talk about that our program is not ready to handle. These are if the user says they are feeling depressed, suicidal, bipolar, physically ill, or disgusted. These topics all have a predetermined response and will prompt the user to say something within the scope of the program. Checking for these topics improves our program because it is reasonable to believe that the user may respond to the bot's prompt of "How are you feeling?" with one of these topics, so it is important to plan for them and ask them to try again. 
 ![unexpectedresponses](./novaunexpectedtopics.png)
 
